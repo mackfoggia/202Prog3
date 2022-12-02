@@ -1,0 +1,14 @@
+Kitchen
+Kitchen|You are standing in your kitchen and want to make a sandwich. Do you reach for [1] bread, or [2] a bagel?|Bread|Bagel|0|
+Bread|You grab two slices of bread from the bag and lay them out on a plate. Now do you grab [1] the peanut butter, or [2] some meat from the fridge?|Peanut Butter|Meat|0|
+Meat|Opening the fridge door you see you have some [1] sliced peppered turkey, and some [2] sliced ham.|Turkey|Ham|0|
+Ham|You take a few slices of ham from the fridge as well as some mayo and a slice or two of cheddar cheese. This all combines into a decent sandwich and you have a decent day.|end|end|0|
+Turkey|You take a few slices of turkey from the fridge, and then reach for the cheese. Do you use [1] provolone or [2] swiss?|Great Sandwich|Great Sandwich|0|
+Great Sandwich|The ingredients you've chosen made a great sandwich, and you had a great day!|end|end|0|
+Good Sandwich|The ingredients you've chosen made a good sandwich, and you had a good day.|end|end|0|
+Decent Sandwich|The ingredients you've chosen made a decent sandwich, and you had a decent day.|end|end|0|
+Peanut Butter|You take the peanut butter from the pantry and spread some on one slice of bread. What about the other slice? Jelly [1] or honey [2]?|Great Sandwich|Good Sandwich|0|
+Bagel|You grab a bagel out of the bag and split it apart. You open the fridge for some [1] sliced peppered turkey or [2] cream cheese.|Bagel with Turkey|Cream Cheese|0|
+Bagel with Turkey|You grab a few slices of turkey, and then reach for the greens. Do you use [1] lettuce, or [2] spinach?|Lettuce|Decent Sandwich|0|
+Lettuce|With lettuce and turkey on your bagel, do you finish it with [1] mustard, or [2] a slice of fresh tomato?|Decent Sandwich|Great Sandwich|0|
+Cream Cheese|You grab the cream cheese and prepare to spread it on the bagel. Do you [1] spread the cream cheese like this or [2] toast the bagel first?|Good Sandwich|Great Sandwich|0|
